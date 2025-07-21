@@ -37,7 +37,6 @@ The **CIUSSS KPI Dashboard** is a community‑driven project that delivers a sca
 * **GitHub Repo:** [https://github.com/potential-rd/CIUSSS_KPI_Dashboard](https://github.com/potential-rd/CIUSSS_KPI_Dashboard)
 * **Data File:** `HipKnee_Validated_KPIs.xlsx`
 * **Dashboard File:** `CIUSSS_KPI_dashboard.pbix`
-* **Power BI Service Workspace:** `CIUSSS KPI Dashboard` (requires CIUSSS account)
 
 ---
 
